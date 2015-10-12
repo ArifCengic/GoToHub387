@@ -3,4 +3,24 @@
     <string name="action_settings">Settings</string>
     <string name="enterPersonalInfo">Please enter personal info: </string>
     <string name="address">Address</string>
+
+    <string-array name="location_name">
+        <item>Home</item>
+        <item>Job</item>
+        <item>Faculty</item>
+    </string-array>
+
+    <string-array name="location_address">
+        <item>Dzemala Bijedica 59</item>
+        <item>Mula Mustafe Baseskije 6</item>
+        <item>Zmaja od Bosne 33</item>
+    </string-array>
+
+    <string-array name="location_visits">
+        <item>3</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string name="title_activity_desination">Destination</string>
+
 </resources>
